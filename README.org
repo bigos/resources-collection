@@ -1,1 +1,14 @@
-* Resources Collection
+* Haskell Resources Collection
+A collection of resources for Haskell beginners.
+
+** Installation on Windows
+There is a bug in ghc, so you have to install specific version for Gtk to work.
+https://gist.github.com/bigos/62defeec09a06f18ee38daf644af5340
+** Documentation
+*** Language
+http://book.realworldhaskell.org/read/
+*** First Programs
+https://wiki.haskell.org/How_to_write_a_Haskell_program
+*** Build tools
+**** cabal
+**** stack
